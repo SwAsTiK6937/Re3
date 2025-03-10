@@ -50,7 +50,7 @@ This project is a **reverse-engineered** version of *Grand Theft Auto III*. It a
 Want to improve the project? Feel free to submit pull requests, report issues, or discuss enhancements.
 
 ## 🌎 Community & Support
-- **Discord Server:** [Join Here](#)
+- **Email:** [swastik3370@gmail.com](#)
 - **Discussions:** GitHub Issues & PRs
 
 ## 📜 License
